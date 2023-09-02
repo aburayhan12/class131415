@@ -1,0 +1,16 @@
+
+.batchDate, .batchSit {
+    color: #585859;
+    font-family: Poppins, sans-serif;
+    font-size: 13px;
+}
+
+
+* {
+    overflow: inherit;
+}
+
+
+#topic {
+    height: 90px;
+}
